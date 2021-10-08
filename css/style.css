@@ -1,0 +1,41 @@
+header{
+    background-image: url("../dost/dost.jpeg");
+    text-align: center;
+    padding: 68px;
+    background-repeat: no-repeat;
+    margin: 15px;
+}
+button{
+    text-align: center;
+    color:white;
+    background-color: orange;
+    padding: 16px;
+    border: none;
+    border-radius: 10px;
+}
+.news{
+    color: white;
+    background-color: #5869a8;
+    text-align: center;
+    margin: 15px;
+}
+.cif{
+    color: #5869a8;
+}
+.may{
+    font-weight: bold;
+    color: #5869a8;
+}
+.or {
+    color: orange;
+}
+.rad{
+    border: #5869a8 solid 2px ;
+    border-radius:10px ;
+}
+.bl{
+    color: #748add;
+    background-color: #0f0946;
+    padding: 70px;
+    text-align: center;
+}
